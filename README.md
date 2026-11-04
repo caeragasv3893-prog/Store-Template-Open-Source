@@ -2,6 +2,7 @@
 ✨ Luxury Fashion Website Template
 A modern, elegant and fully responsive HTML website template designed for fashion brands, clothing stores, boutiques and luxury labels.
 Perfect for anyone looking to launch a stylish online presence with a premium look.
+
 ⭐ Features
 ✔ Luxury & modern fashion design
 ✔ Light & Dark mode
